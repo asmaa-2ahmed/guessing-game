@@ -1,6 +1,12 @@
 # Guessing Game Project
 
-This project is a guessing game implemented in Python, where the player needs to guess a randomly generated number within a certain range. The game provides three levels of difficulty: Easy, Intermediate, and Hard.
+This is a simple guessing game implemented in Python. The game generates a random number based on the chosen difficulty level, and the player needs to guess the number within a certain number of trials.
+
+## Getting Started
+To play the game, follow these steps:
+1. Clone the repository to your local machine.
+2. Make sure you have Python installed.
+3. Open the Project 1: Guessing Game.ipynb file in a Python environment or Jupyter Notebook.
 
 ## Game Levels
 
@@ -43,17 +49,15 @@ The code provided in the notebook follows the outlined solution. Here is a brief
 
 ## How to Play
 
-To play the game, follow these steps:
-
 1. Run the code provided in the notebook.
 
 2. The game levels will be displayed.
 
 3. Choose a game level by entering the corresponding number.
 
-4. The game will start, and you will be prompted to make a guess.
+4. The game will set the number range and the number of trials based on the chosen level.
 
-5. Enter your guess and press Enter.
+5. Start guessing the number within the given trials.
 
 6. Based on your guess, the game will provide feedback on whether you should increase or decrease your guess.
 
@@ -63,4 +67,10 @@ To play the game, follow these steps:
 
 9. You can play the game again by re-running the code.
 
-Have fun playing the Guessing Game!
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+
+## Acknowledgments
+This project is a simple implementation of a guessing game and is meant for educational purposes. Feel free to modify and improve it as needed.
+
+Enjoy playing the game!
